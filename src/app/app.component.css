@@ -17,11 +17,6 @@ button {
 span {
   margin: 5px;
 }
-.container {
-  margin: 20px;
-  border: 100px saddlebrown;
-  width: 300px;
-}
 tr {
   text-transform: capitalize;
 }
